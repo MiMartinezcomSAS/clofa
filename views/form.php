@@ -1,4 +1,4 @@
-<form action="submit">
+<form action="includes/submit.php" id="form" method="post">
     <h1>Encuenta de opinión</h1>
     <!-- question 1 -->
     <div class="content-question">
@@ -137,8 +137,8 @@
         <input id="nombre" type="text" name="nombre" placeholder="Nombres y Apellidos"/>
     </div>
     <div class="content-input column-3">
-        <label for="Grado">Grado</label>
-        <input id="Grado" type="text" name="Grado" placeholder="Grado"/>
+        <label for="grado">Grado</label>
+        <input id="grado" type="text" name="grado" placeholder="Grado"/>
     </div>
     <div class="content-input column-3">
         <label for="celular">Grado</label>

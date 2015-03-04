@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a0c3b25-ef37-473a-aafa-542967b9c83d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/default.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/checkForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/submit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/CacheBase.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/CacheBase.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/DiscISAM.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/DiscISAM.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Reader/Excel5.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Reader/Excel5.php" />
@@ -16,18 +15,30 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/MemorySerialized.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/MemorySerialized.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/PHPTemp.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/PHPTemp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Shared/OLE/PPS/Root.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Shared/OLE/PPS/Root.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/SQLite.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/SQLite.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/SQLite3.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/SQLite3.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/Wincache.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/CachedObjectStorage/Wincache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/clofa.iml" afterPath="$PROJECT_DIR$/.idea/clofa.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/form.php" afterPath="$PROJECT_DIR$/views/form.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/locale/pt/functions" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/locale/pt/functions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/locale/pt/br/functions" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/locale/pt/br/functions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/locale/sv/functions" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/locale/sv/functions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Chart/Renderer/jpgraph.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Chart/Renderer/jpgraph.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.11.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/normalize.min.css" afterPath="$PROJECT_DIR$/css/normalize.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Shared/PCLZip/pclzip.lib.php" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Shared/PCLZip/pclzip.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/prefixfree.min.js" afterPath="$PROJECT_DIR$/js/prefixfree.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Shared/PCLZip/readme.txt" afterPath="$PROJECT_DIR$/includes/phpExcel/PHPExcel/Shared/PCLZip/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="clofa.iws" />
@@ -52,16 +63,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="form.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="submit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/submit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.75" vertical-offset="323" max-vertical-offset="969">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkForm.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/checkForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23529412" vertical-offset="228" max-vertical-offset="874">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63069546" vertical-offset="174" max-vertical-offset="1824">
-              <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
-              <folding>
-                <element signature="n#div#0;n#form#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#form#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#form#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="-13.571428" vertical-offset="2489" max-vertical-offset="3135">
+              <caret line="151" column="26" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,11 +112,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/layout/default.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/submit.php" />
+        <option value="$PROJECT_DIR$/includes/submit.php" />
         <option value="$PROJECT_DIR$/views/form.php" />
+        <option value="$PROJECT_DIR$/includes/checkForm.php" />
       </list>
     </option>
   </component>
@@ -158,6 +198,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clofa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clofa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clofa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clofa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clofa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clofa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -172,9 +254,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/juan2ramos/Sites/mi-martinez/clofa/views/form.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/includes" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -218,21 +302,27 @@
       <option name="project" value="LOCAL" />
       <updated>1425434173071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+ html&#10;+ restructura php">
+      <created>1425438173419</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1425438173419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3252841" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3252841" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32947233" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24642289" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23205742" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23205742" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3298887" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="73" y="320" width="1258" height="256" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843792" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -264,7 +354,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="+ Includes" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Includes" />
+    <MESSAGE value="+ html&#10;+ restructura php" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ html&#10;+ restructura php" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -272,14 +363,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="674">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="674">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -319,15 +402,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="674">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.75" vertical-offset="323" max-vertical-offset="969">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63069546" vertical-offset="174" max-vertical-offset="1824">
-          <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
-          <folding>
-            <element signature="n#div#0;n#form#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#form#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#form#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-13.571428" vertical-offset="2489" max-vertical-offset="3135">
+          <caret line="151" column="26" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/checkForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23529412" vertical-offset="228" max-vertical-offset="874">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
