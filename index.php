@@ -30,6 +30,9 @@
 </head>
 <body>
 
+<main>
+
+</main>
 
 </body>
 <!-- JavaScript -->
