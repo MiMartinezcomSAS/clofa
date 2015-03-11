@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>
 <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -19,8 +20,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1"/>
 
 
-
-
     <!-- Style -->
     <script src="js/prefixfree.min.js"></script>
     <link rel="stylesheet" href="css/normalize.min.css"/>
@@ -31,8 +30,18 @@
 <body>
 
 <main>
+    <figure class="logo">
+        <img src="img/clofa.svg" alt="Clofa Logo"/>
+    </figure>
     <?php include $fileName; ?>
 </main>
+<aside class="errors">
+    <div class="content-errors">
+        <span class="close">x</span>
+        <p>Dedes corregir los siguientes errores: </p>
+        <ul id="list-error"></ul>
+    </div>
+</aside>
 <!-- JavaScript -->
 <script src="js/jquery-1.11.2.min.js"></script>
 <script src="js/main.js"></script>
